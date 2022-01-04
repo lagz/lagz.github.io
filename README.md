@@ -12,7 +12,8 @@ My interests include:
 - Microcontrollers
 - Machine Learning
 - Internet Privacy/Security
-- Business Development Through Engineering
+- Open Source Development
+- Linux Development
 
 
 ### Contact
